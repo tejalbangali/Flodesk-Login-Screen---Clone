@@ -1,0 +1,92 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  width: 250px;
+}
+
+.container {
+  text-align: center;
+  width: 350px;
+  margin: 50px auto;
+
+  position: relative;
+}
+
+.heading {
+  font-size: 20px;
+  margin: 30px;
+}
+
+.email {
+  width: 100%;
+  margin: 10px;
+  font-family: inherit;
+  padding: 15px;
+  font-size: 15px;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  color: darkgray;
+  box-sizing: border-box;
+}
+
+.password {
+  width: 100%;
+  margin: 10px;
+  font-family: inherit;
+  padding: 15px;
+  font-size: 15px;
+  border: 1px solid lightgray;
+  border-radius: 12px;
+  color: darkgray;
+  box-sizing: border-box;
+}
+
+.show {
+  color: darkgrey;
+  right: 0;
+  bottom: 170px;
+  font-size: 12px;
+  border: none;
+  background-color: white;
+  margin: 0;
+  position: absolute;
+  right: 0;
+  bottom: 287px;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px 60px;
+  font-size: 17px;
+  border: none;
+  border-radius: 40px;
+}
+
+.signup-detail {
+  color: gray;
+  font-size: 15px;
+}
+
+.signup-detail > a {
+  color: black;
+}
+
+.password-reset {
+  color: black;
+  font-size: 15px;
+}
+
+.tnc {
+  color: gray;
+  font-size: 13px;
+  padding: 20px;
+  line-height: 20px;
+}
+
+.tnc > a {
+  color: gray;
+}
