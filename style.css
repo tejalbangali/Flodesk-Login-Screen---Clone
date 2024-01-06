@@ -54,6 +54,7 @@ img {
   position: absolute;
   right: 0;
   bottom: 287px;
+  cursor: pointer;
 }
 
 .button {
